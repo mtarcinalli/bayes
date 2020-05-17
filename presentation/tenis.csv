@@ -1,0 +1,10 @@
+Aparência,Temperatura,Umidade,Ventando,Jogar
+sol,85,85,falso,não
+sol,80,90,verdadeiro,não
+nublado,83,86,falso,sim
+chuva,70,96,falso,sim
+chuva,68,80,falso,sim
+chuva,65,70,verdadeiro,não
+nublado,64,65,verdadeiro,sim
+sol,72,95,falso,não
+sol,69,70,falso,sim
